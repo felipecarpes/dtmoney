@@ -14,19 +14,11 @@ createServer({
 				{
 					id: 1,
 					title: 'Salário',
-					amount: 4000,
+					amount: 8200,
 					type: 'deposit',
 					category: 'Trabalho',
 					created_at: new Date('2022-03-05')
 				},
-				{
-					id: 2,
-					title: 'Aluguel',
-					amount: 1000,
-					type: 'withdraw',
-					category: 'Casa',
-					created_at: new Date('2022-03-08')
-				}
 			]
 		})
 	},
